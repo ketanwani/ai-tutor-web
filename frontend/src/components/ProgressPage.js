@@ -126,7 +126,7 @@ const ProgressPage = () => {
               >
                 ← Back to Dashboard
               </button>
-              <h1 className="text-2xl font-bold text-primary-600">AI Tutor SG</h1>
+              <h1 className="text-2xl font-bold text-primary-600">kopikids</h1>
             </div>
             <nav className="flex space-x-8">
               <button
